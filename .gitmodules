@@ -31,3 +31,9 @@
 [submodule ".vim/autoload"]
 	path = .vim/autoload
 	url = https://github.com/tpope/vim-pathogen
+[submodule ".vim/bundle/vim-jsx"]
+	path = .vim/bundle/vim-jsx
+	url = https://github.com/mxw/vim-jsx
+[submodule ".vim/bundle/vim-javascript"]
+	path = .vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript 
